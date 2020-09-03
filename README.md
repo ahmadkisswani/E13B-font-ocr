@@ -1,2 +1,2 @@
 # E13B-font-ocr
-Optical character recognition 'for'  micr fonts 
+Optical character recognition for micr fonts 
